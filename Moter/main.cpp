@@ -1,10 +1,3 @@
-/*
- * Moter.cpp
- *
- * Created: 2025-02-21 오후 3:10:18
- * Author : USER
- */ 
-
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <util/delay.h>
